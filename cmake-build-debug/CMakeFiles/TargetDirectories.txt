@@ -1,0 +1,3 @@
+/home/shashi/Shashi/Development/CLion/first-cuda-playground/cmake-build-debug/CMakeFiles/cudatest.dir
+/home/shashi/Shashi/Development/CLion/first-cuda-playground/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shashi/Shashi/Development/CLion/first-cuda-playground/cmake-build-debug/CMakeFiles/rebuild_cache.dir

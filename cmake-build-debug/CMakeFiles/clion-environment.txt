@@ -1,0 +1,4 @@
+ToolSet: 1.0 (local)Ninja: 1.11.1@/media/shashi/HDD/Shashi_Linux/JetBrains/apps/clion/bin/ninja/linux/x64/ninja
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=/media/shashi/HDD/Shashi_Linux/JetBrains/apps/clion/bin/ninja/linux/x64/ninja
